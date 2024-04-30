@@ -1,4 +1,4 @@
-let firstName = "David";
-let lastName = "Tucker";
+let firstName = "Sergio";
+let lastName = "Raya";
 
-console.log(`Hello ${firstName} ${lastName}`);
+console.log(`Hola ${firstName} ${lastName}`);
