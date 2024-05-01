@@ -8,4 +8,4 @@ let persona = {
     apellidos: "Raya Robles"
 }
 
-console.log(persona.nombre + " " + persona.apellidos)
+console.log(persona.nombre + " " + persona.apellidos);
